@@ -1,0 +1,15 @@
+.produtos{
+    margin: 0px;
+    padding: 0px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.nome{
+    margin: 1rem 0;
+}
+
+.produto{
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
